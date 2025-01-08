@@ -2,7 +2,9 @@
 
 This project is a simple Python CGI script for managing student names and their grades. It demonstrates how to use CGI for form submission and file-based data storage.
 
+**
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/21453b30-8f6e-40d2-b1c1-26d6b3f28453" />
+**
 
 **Author: Bryce Wang, brycewang2018@gmail.com**
 
