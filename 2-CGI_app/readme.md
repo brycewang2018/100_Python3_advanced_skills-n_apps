@@ -1,12 +1,10 @@
----
-
 # Student Grades Management - Python CGI Script
 
 This project is a simple Python CGI script for managing student names and their grades. It demonstrates how to use CGI for form submission and file-based data storage.
 
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/21453b30-8f6e-40d2-b1c1-26d6b3f28453" />
 
-Author: Bryce Wang, brycewang2018@gmail.com
+**Author: Bryce Wang, brycewang2018@gmail.com**
 
 ## Requirements
 
@@ -14,7 +12,6 @@ Author: Bryce Wang, brycewang2018@gmail.com
 2. A basic understanding of terminal commands.
 3. An environment to run a simple HTTP server with CGI enabled.
 
----
 
 ## How to Run
 
