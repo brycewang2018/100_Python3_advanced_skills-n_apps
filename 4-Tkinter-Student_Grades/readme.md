@@ -1,11 +1,12 @@
 # Student Grade Management Application
+=============================================================
 
 <img width="695" alt="image" src="https://github.com/user-attachments/assets/f7920287-9cf5-4c7c-97b3-9bca48a24e1b" />
-
+=============================================================
 
 This is a simple GUI application for managing student grades using Python and `tkinter`. It allows users to input and store grades for four subjects: English, Math, Physics, and Machine Learning. The grades are saved locally in a text file (`students_data.txt`) and can be displayed in a tabular format within the application.
 
-Authoer: Bryce Wang, brycewang2018@gmail.com
+**Author: Bryce Wang, brycewang2018@gmail.com**
 ## Features
 
 - **Add Student Grades**: Input student name and grades for four subjects.
