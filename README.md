@@ -1,1 +1,1 @@
-# Learn Python every day!
+# Learn Advanced Python every day!
