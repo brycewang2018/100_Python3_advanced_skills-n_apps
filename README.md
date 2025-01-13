@@ -1,1 +1,1 @@
-# Learn Advanced Python every day!
+# Learn Advanced Python thru wonderful examples.
